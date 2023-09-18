@@ -1,0 +1,14 @@
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\bin\Debug\net7.0\dictionaries_cs.exe
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\bin\Debug\net7.0\dictionaries_cs.deps.json
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\bin\Debug\net7.0\dictionaries_cs.runtimeconfig.json
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\bin\Debug\net7.0\dictionaries_cs.dll
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\bin\Debug\net7.0\dictionaries_cs.pdb
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\dictionaries_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\dictionaries_cs.AssemblyInfoInputs.cache
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\dictionaries_cs.AssemblyInfo.cs
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\dictionaries_cs.csproj.CoreCompileInputs.cache
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\dictionaries_cs.dll
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\refint\dictionaries_cs.dll
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\dictionaries_cs.pdb
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\dictionaries_cs.genruntimeconfig.cache
+C:\Users\DeLaCruz\Documents\CAMPUS\CSharp\dictionaries_cs\obj\Debug\net7.0\ref\dictionaries_cs.dll
